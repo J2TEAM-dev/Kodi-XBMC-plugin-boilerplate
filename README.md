@@ -4,8 +4,8 @@ A directory structure that contains all the resources needed to operate your Kod
 
 ## Usage
 
-1. Download this boilerplate.
-2. Unzip and rename the folder "plugin.media-type.plugin-name" with your Plugin name.
+1. [Download this boilerplate](archive/master.zip).
+2. Unzip and rename the folder "**plugin.media-type.plugin-name**" to your Plugin name.
 4. Add folder to project in your favorite Editor/IDE and start coding!
 
 ## Plugin Directory Structure:
