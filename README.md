@@ -4,11 +4,11 @@ A directory structure that contains all the resources needed to operate your Kod
 
 ## Usage
 
-1. [Download this boilerplate](archive/master.zip).
+1. [Download this boilerplate](https://github.com/J2TeaM-dev/Kodi-XBMC-plugin-boilerplate/archive/master.zip).
 2. Unzip and rename the folder "**plugin.media-type.plugin-name**" to your Plugin name.
 4. Add folder to project in your favorite Editor/IDE and start coding!
 
-## Plugin Directory Structure:
+## Plugin Directory Structure
 
 *TODO*
 
