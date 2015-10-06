@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="your.addon.id" name="Your Add-on" version="0.0.1" provider-name="Dev1, Dev2">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Your add-on's summary</summary>
-    <description lang="en">Your add-on's description. Directory structure has been created by https://goo.gl/7CfkaR</description>
-    <disclaimer lang="en">Feel free to use this script.</disclaimer>
-    <language>en</language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
-    <forum>http://forum.kodi.tv/showthread.php?tid=[???]</forum>
-    <website>http://www.example.com/</website>
-    <email>username@example.com</email>
-    <source>https://github.com/J2TeaM-dev/Kodi-XBMC-plugin-boilerplate</source>
-  </extension>
+<addon
+  id="your.addon.id"
+  name="Your Add-on"
+  version="0.0.1"
+  provider-name="Dev1, Dev2">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Your add-on's summary</summary>
+        <description lang="en">Your add-on's description. Directory structure has been created by https://goo.gl/7CfkaR</description>
+        <disclaimer lang="en">Feel free to use this script.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+        <forum>http://forum.kodi.tv/showthread.php?tid=[???]</forum>
+        <website>http://www.example.com/</website>
+        <email>username@example.com</email>
+        <source>https://github.com/J2TeaM-dev/Kodi-XBMC-plugin-boilerplate</source>
+    </extension>
 </addon>
