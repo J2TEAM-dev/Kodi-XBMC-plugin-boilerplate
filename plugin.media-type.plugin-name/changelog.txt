@@ -1,0 +1,8 @@
+v0.0.3
+- Update with 13.0 Gotham_alpha2
+
+v0.0.2
+- Add notification for Ubuntu users checking through apt command
+
+v0.0.1
+- Initial version
