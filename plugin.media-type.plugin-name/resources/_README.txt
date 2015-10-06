@@ -1,0 +1,1 @@
+The resources/ subdirectory is the preferred place to put any files that the add-on uses that don't need to be stored in the root directory. For instance, translations, software libraries, and image resources would go in resources/ or one of its subdirectories.

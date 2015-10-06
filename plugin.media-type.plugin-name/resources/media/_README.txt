@@ -1,0 +1,1 @@
+Store any static media (picture, audio, video etc.) files in this directory.

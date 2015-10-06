@@ -1,0 +1,1 @@
+Store any other static data structures your application requires here. Examples might be XLT/XSD files or static XML files that contain lookup tables etc.
